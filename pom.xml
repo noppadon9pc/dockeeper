@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.wacoal</groupId>
-	<artifactId>dockeeper</artifactId>
+	<artifactId>dockeeper</artifactId> 
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
